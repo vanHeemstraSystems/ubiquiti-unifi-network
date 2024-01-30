@@ -10,3 +10,6 @@ It may take a minute or two before the console has checked if there are updates 
 
 ![image-4](https://github.com/vanHeemstraSystems/ubiquiti-unifi-network/assets/1499433/2d6209ab-6b35-49c8-952f-7a874a5c5ad2)
 
+While we are in the UniFi OS Settings, open the **Console Settings** (2). Make sure that the System Config Backup is Enabled and check if the location/time zone is correct. Here you can also enable or disable the LED / LCM Screen of the console.
+
+Especially with the UniFi Dream Router or UniFi Express, that you often place insight, you might want to turn the screen off at night or lower the brightness.
