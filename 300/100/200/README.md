@@ -8,3 +8,5 @@ Now the first step is to make sure that it’s **fully up-to-date**. At the mome
 
 It may take a minute or two before the console has checked if there are updates available, but make sure that all the applications are updated to the latest version:
 
+![image-4](https://github.com/vanHeemstraSystems/ubiquiti-unifi-network/assets/1499433/2d6209ab-6b35-49c8-952f-7a874a5c5ad2)
+
