@@ -22,6 +22,8 @@ See [README.md](./300/README.md)
 
 ## 400 - Step 4 – Configure Wireless Networks
 
+=== WE ARE HERE ===
+
 See [README.md](./400/README.md)
 
 ## 500 - Step 5 – Networks
