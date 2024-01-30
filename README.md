@@ -3,6 +3,8 @@ ubiquiti-unifi-network
 
 Based on "How to Setup UniFi Network – Complete Guide 2024" at https://lazyadmin.nl/home-network/unifi-network-complete-guide/
 
+Based on "Introducing UniFi Express, a SMALL device with BIG features!" at https://www.youtube.com/watch?v=v1FCTh8vNwk
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
