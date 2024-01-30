@@ -6,5 +6,9 @@ Connect the WAN port of your Cloud Gateway or console to the internet and connec
 
 **Note**: If you don’t wan’t to use the app, then connect a laptop to the network, open a browser and go to http://192.168.1.1 to complete the initial setup.
 
+| One | Two | Three | Four | Five |
+| -- | -- | -- | -- | -- |
+| .. | .. | .. | ![Screenshot_20231206-135254-Medium-1-461x1024](https://github.com/vanHeemstraSystems/ubiquiti-unifi-network/assets/1499433/2615d532-2062-4e6a-bcce-e5d1c01db115) | ..|
+
 
 WE ARE HERE 
