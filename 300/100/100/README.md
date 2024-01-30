@@ -4,7 +4,7 @@ The initial setup of our UniFi Cloud Gateway or Console is best done using a Blu
 
 Connect the WAN port of your Cloud Gateway or console to the internet and connect the power to start the device. The device needs a couple of minutes to power up, in the meantime open the app on your mobile.
 
-**Note**: If you don’t wan’t to use the app, then connect a laptop to the network, open a browser and go to http://192.168.1.1 to complete the initial setup.
+**Note**: If you don’t want to use the app, then connect a laptop to the network, open a browser and go to http://192.168.1.1 to complete the initial setup.
 
 | One | Two | Three | Four | Five |
 | -- | -- | -- | -- | -- |
