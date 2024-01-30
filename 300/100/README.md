@@ -1,6 +1,6 @@
 # 100 - UniFi Setup
 
-For this UniFi Setup walkthrough, we are going to use a [UniFi Express](https://lazyadmin.nl/home-network/unifi-express-review/) as a Cloud Controller and add an UniFi Lite access point and UniFi Lite switch to it. We are going to configure the network for a typical home network with a guest network and one normal wireless network.
+For this UniFi Setup walkthrough, we are going to use a [UniFi Express](https://lazyadmin.nl/home-network/unifi-express-review/) (*NOTE*: It runs only the UniFi Network app, which allows you to manage your entire network.) as a Cloud Controller and add an UniFi Lite access point and UniFi Lite switch to it. We are going to configure the network for a typical home network with a guest network and one normal wireless network.
 
 The UniFi Express doesn’t support threat detection (Suspicious Activity or IDS/IDP), so for that part, we will switch over to the UDM Pro ~that I have running here~. Learn more about the difference between [UniFi Cloud Gateways in this comparison article](https://lazyadmin.nl/home-network/unifi-controller/).
 
