@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+ubiquiti-unifi-network
+# Ubiquiti UniFi Network
 
-Based on "ABC" at https://www.abc.com/
+Based on "How to Setup UniFi Network – Complete Guide 2024" at https://lazyadmin.nl/home-network/unifi-network-complete-guide/
 
 ## 100 - Introduction
 
